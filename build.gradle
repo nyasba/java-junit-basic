@@ -1,4 +1,4 @@
-group 'jp.co.biglobe.newbies'
+group 'jp.co.example.takatama'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
