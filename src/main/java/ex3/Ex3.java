@@ -13,7 +13,7 @@ public class Ex3 {
      * @param args 与えられた数列
      * @return 最も小さな数字
      */
-    public int min(final int... args) {
+    public int min(final Integer... args) {
         return 0;
     }
 }

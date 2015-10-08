@@ -16,7 +16,7 @@ public class Ex5 {
      * @param args 与えられた数列
      * @return 重複していない数字のリスト
      */
-    public List<Integer> unique(final int... args) {
+    public List<Integer> unique(final Integer... args) {
         return new ArrayList<>();
     }
 }
